@@ -1,5 +1,4 @@
 package org.cloudbus.cloudsim.examples;
-
 /*
  * Title:        CloudSim Toolkit
  * Description:  CloudSim (Cloud Simulation) Toolkit for Modeling and Simulation
